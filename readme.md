@@ -20,4 +20,4 @@ The clustered images:
 
 The spectral signatures for various clusters:
 
-<img src="Images/Spectral Reflectance - Yemen Coast.png" width="350" height="350"/> <img src="Images/Spectral Reflectance - Yemen Desert.png" width="350" height="350"/>
+<img src="Images/Spectral Reflectance - Yemen Coast.png" width="384" height="256"/> <img src="Images/Spectral Reflectance - Yemen Desert.png" width="384" height="256"/>
