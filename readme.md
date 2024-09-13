@@ -23,6 +23,9 @@ The spectral signatures for various clusters:
 <img src="Images/Spectral Reflectance - Yemen Coast.png" width="384" height="256"/> <img src="Images/Spectral Reflectance - Yemen Desert.png" width="384" height="256"/>
 
 This research has been published through IEEE Space 2024 conference proceedings. 
+
 Details:
+
 ISBN - 979-8-3503-6738-6
+
 Page 132
