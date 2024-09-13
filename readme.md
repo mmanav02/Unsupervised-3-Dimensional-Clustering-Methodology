@@ -17,6 +17,7 @@ The proposed algorithm:
 
 The clustered images:
 ![Clustered Image - Yemen Coast](<Images/Clustered Image - Yemen Coast(legend).png>)
+<img src="Images/Clustered Image - Yemen Coast(legend).png" width="100" height="100"/>
 ![Clustered Image - Yemen Desert](<Images/Clustered Image - Yemen Desert(legend).png>)
 
 The spectral signatures for various clusters:
