@@ -25,7 +25,6 @@ The spectral signatures for various clusters:
 This research has been published through IEEE Space 2024 conference proceedings. 
 
 Details:
-
+Title: Unsupervised Hyperspectral Image Segmentation: A Novel 3-Dimensional Clustering Methodology
 ISBN - 979-8-3503-6738-6
-
 Page 132
