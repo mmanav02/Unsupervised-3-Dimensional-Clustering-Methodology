@@ -23,7 +23,5 @@ The spectral signatures for various clusters:
 <img src="Images/Spectral Reflectance - Yemen Coast.png" width="384" height="256"/> <img src="Images/Spectral Reflectance - Yemen Desert.png" width="384" height="256"/>
 
 This research has been published through IEEE Space 2024 conference proceedings. \
-Details:\
-Title: Unsupervised Hyperspectral Image Segmentation: A Novel 3-Dimensional Clustering Methodology\
-ISBN - 979-8-3503-6738-6\
-Page 132
+Cite: \
+Avasthi, K., Vakharia, M., Chokshi, A., Nair, A., Vyas, T., Desai, S., & Tanwar, S. (2024). Unsupervised Hyperspectral Image Segmentation: A Novel 3-Dimensional Clustering Methodology. In 2024 IEEE Space, Aerospace and Defence Conference (SPACE) (pp. 136–139). 2024 IEEE Space, Aerospace and Defence Conference (SPACE). IEEE. https://doi.org/10.1109/space63117.2024.10668388
